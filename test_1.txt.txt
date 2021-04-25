@@ -1,2 +1,4 @@
 Hi, This is Satya.
 This is my first code project.
+
+I am also a Java Developer as well as a python programmer.
